@@ -1,7 +1,7 @@
 #La visualización de datos en los videojuegos. Caso de Estudio: LEAGUE OF LEGENDS
 ##Al igual que en deportes tradicionales como el baloncesto o el fútbol, las estadístican muestran una gran información para el espectador en el caso de los E-SPORTS
 
-Tras muchos años, los videojuegos y concretamente los deportes electrónicos se han visto faltos de nuevas tecnologías que proporcionasen una **mayor fluidez y eficacia** a la hora de entender que ocurre dentro del juego.
+Tras muchos años, los videojuegos y concretamente los deportes electrónicos se han visto faltos de nuevas tecnologías y avances que proporcionasen una **mayor fluidez y eficacia** a la hora de entender que ocurre dentro del juego.
 Sin embargo, en los últimos años muchas plataformas han visto una oportunidad para generar un negocio en la industria de los videojuegos, y concretamente **en la visualización de datos de los mismos**
 A partir de la profesionalización del sector a principios de 2010, la mayoría de empresar inmersas en el sector impulsaron nuevas tecnologías para generar archivos, imagenes y datos de las partidas únicamente de competición, que por entonces **era casi nula**
 Sin embargo hubo varios factores que hichieron crecer la industria:
